@@ -1,0 +1,152 @@
+{
+    "index_name": "cpgrams_movement",
+    "title": "cpgrams_movement",
+    "desc": "msme",
+    "visualizable": "0",
+    "active": "2",
+    "source": "data.gov.in",
+    "catalog_uuid": "cpgrams_movement",
+    "created": 1572413199,
+    "updated": 1572413199,
+    "updated_date": "2019-10-30T06:26:39Z",
+    "target_bucket": {
+        "index": "cpgrams_movement",
+        "type": "cpgrams_movement"
+    },
+    "field": [
+        {
+            "id": "registration_no",
+            "name": "registration_no",
+            "type": "keyword"
+        },
+        {
+            "id": "action_srno",
+            "name": "action_srno",
+            "type": "double"
+        },
+        {
+            "id": "action_name",
+            "name": "action_name",
+            "type": "keyword"
+        },
+        {
+            "id": "date_of_action",
+            "name": "date_of_action",
+            "type": "date"
+        },
+        {
+            "id": "org_name",
+            "name": "org_name",
+            "type": "keyword"
+        },
+        {
+            "id": "org_name2",
+            "name": "org_name2",
+            "type": "keyword"
+        },
+        {
+            "id": "remarks",
+            "name": "remarks",
+            "type": "text"
+        }
+    ],
+    "message": "Resource lists",
+    "version": "2.2.0",
+    "status": "ok",
+    "total": 1936128,
+    "count": 10,
+    "limit": "10",
+    "offset": "0",
+    "records": [
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "1",
+            "action_name": "RECEIVED THE GRIEVANCE",
+            "date_of_action": "07-05-2019",
+            "org_name": "COMPLAINANT",
+            "org_name2": "Ministry of Ayush",
+            "remarks": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "2",
+            "action_name": "TRANSFER TO OTHER ORGANISATION",
+            "date_of_action": "07-05-2019",
+            "org_name": "Ministry of Ayush",
+            "org_name2": "Ministry of Labour and Employment",
+            "remarks": " ESIC is under the control of under Ministry of Labour and Employment. We may transfer the PG to the concerned Ministry."
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "3",
+            "action_name": "TAKEN UP WITH SUBORDINATE ORGANISATION",
+            "date_of_action": "07-05-2019",
+            "org_name": "Ministry of Labour and Employment",
+            "org_name2": "ESIC Headquarters",
+            "remarks": " "
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "4",
+            "action_name": "TAKEN UP WITH SUBORDINATE ORGANISATION",
+            "date_of_action": "12-05-2019",
+            "org_name": "ESIC Headquarters",
+            "org_name2": "Directorate Medical Delhi",
+            "remarks": " Please respond to the grievances raised herein within * days"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "5",
+            "action_name": "REMINDER RECEIVED FROM COMPLAINANT",
+            "date_of_action": "24-05-2019",
+            "org_name": "COMPLAINANT",
+            "org_name2": "Ministry of Ayush",
+            "remarks": "Reminder.."
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "6",
+            "action_name": "REMIDER\/CLARIFICATION SOUGHT FROM  SUBORDINATE ORGN.",
+            "date_of_action": "29-05-2019",
+            "org_name": "ESIC Headquarters",
+            "org_name2": "Directorate Medical Delhi",
+            "remarks": " Please respond to the grievances raised herein within * days"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "7",
+            "action_name": "CASE REPORT SENT AND DISPOSED LOCALLY ",
+            "date_of_action": "30-05-2019",
+            "org_name": "Directorate Medical Delhi",
+            "org_name2": "ESIC Headquarters",
+            "remarks": "It is informed that ATR has been received from Jangpura Dispensary stating that an office order has been issued to all officers and staff with the instruction to be on their seats while on duty so that no inconvenience is faced by ESIC Beneficiaries. The complaint is treated as Disposed Of."
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "8",
+            "action_name": "CASE REPORT SENT AND DISPOSED LOCALLY ",
+            "date_of_action": "30-05-2019",
+            "org_name": "Directorate Medical Delhi",
+            "org_name2": "ESIC Headquarters",
+            "remarks": "It is informed that ATR has been received from Jangpura Dispensary stating that an office order has been issued to all officers and staff with the instruction to be on their seats while on duty so that no inconvenience is faced by ESIC Beneficiaries. The complaint is treated as Disposed Of."
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "9",
+            "action_name": "CASE REPORT SENT AND DISPOSED LOCALLY ",
+            "date_of_action": "30-05-2019",
+            "org_name": "ESIC Headquarters",
+            "org_name2": "Ministry of Labour and Employment",
+            "remarks": "It is informed that ATR has been received from Jangpura Dispensary stating that an office order has been issued to all officers and staff with the instruction to be on their seats while on duty so that no inconvenience is faced by ESIC Beneficiaries. The complaint is treated as Disposed Of."
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300",
+            "action_srno": "10",
+            "action_name": "CASE DISPOSED OF",
+            "date_of_action": "06-06-2019",
+            "org_name": "Ministry of Labour and Employment",
+            "org_name2": "COMPLAINANT",
+            "remarks": "     In  this  grievance case the  ESIC (as reported to MoLE PG Cell by Nodal PGO ESIC HQ) have  furnished  their  report\/reply\/response for information of the  complainant as follows .....Reply\/response of ESIC dt.**\/**\/****.... It is informed that ATR has been received from Jangpura Dispensary stating that an office order has been issued to all officers and staff with the instruction to be on their seats while on duty so that no inconvenience is faced by ESIC Beneficiaries. The complaint is treated as Disposed of.   .....     As per the above reply\/report  dt.**\/*\/**** of the nodal PGO of ESIC this PG case is now replied to\/disposed of on the PG portal a\/c of Union MoLE however with the stipulation that if still any issue\/matter (out of this PG case) related to Union MoLE still remains unresolved in his view then the petitioner may please submit his  such  unresolved  issue\/further remaining grievance as a fresh PG  afresh\/again on the PG portal please."
+        }
+    ]
+}

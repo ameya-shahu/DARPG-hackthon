@@ -1,0 +1,227 @@
+{
+    "index_name": "cpgrams",
+    "title": "cpgrams",
+    "desc": "msme",
+    "visualizable": "0",
+    "active": "2",
+    "source": "data.gov.in",
+    "catalog_uuid": "cpgrams",
+    "created": 1572413199,
+    "updated": 1572413199,
+    "updated_date": "2019-10-30T06:26:39Z",
+    "target_bucket": {
+        "index": "cpgrams",
+        "type": "cpgrams"
+    },
+    "field": [
+        {
+            "id": "registration_no",
+            "name": "registration_no",
+            "type": "keyword"
+        },
+        {
+            "id": "ministry_department",
+            "name": "ministry_department",
+            "type": "keyword"
+        },
+        {
+            "id": "country_name",
+            "name": "country_name",
+            "type": "keyword"
+        },
+        {
+            "id": "state_name",
+            "name": "state_name",
+            "type": "keyword"
+        },
+        {
+            "id": "distname",
+            "name": "distname",
+            "type": "keyword"
+        },
+        {
+            "id": "subject_content",
+            "name": "subject_content",
+            "type": "keyword"
+        },
+        {
+            "id": "diarydate",
+            "name": "diarydate",
+            "type": "date"
+        },
+        {
+            "id": "closing_date",
+            "name": "closing_date",
+            "type": "keyword"
+        },
+        {
+            "id": "SourceName",
+            "name": "SourceName",
+            "type": "keyword"
+        },
+        {
+            "id": "rating",
+            "name": "rating",
+            "type": "keyword"
+        },
+        {
+            "id": "comments",
+            "name": "comments",
+            "type": "text"
+        },
+        {
+            "id": "ratingdate",
+            "name": "ratingdate",
+            "type": "keyword"
+        }
+    ],
+    "message": "Resource lists",
+    "version": "2.2.0",
+    "status": "ok",
+    "total": 303733,
+    "count": 10,
+    "limit": "10",
+    "offset": "0",
+    "records": [
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300  ",
+            "ministry_department": "Ministry of Ayush",
+            "country_name": "India",
+            "state_name": "Delhi",
+            "distname": "South Delhi",
+            "subject_content": "Sir        The ESIC dispensary in Jangpura new delhi is not working properly. The doctors not treated to patients they always chat with other staff for hours and hours. Sir please do something so that we can save our time please.",
+            "diarydate": "03-05-2019 12:37",
+            "closing_date": "06-06-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "N",
+            "comments": "NA",
+            "ratingdate": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00300  ",
+            "ministry_department": "Ministry of Labour and Employment",
+            "country_name": "India",
+            "state_name": "Delhi",
+            "distname": "South Delhi",
+            "subject_content": "Sir        The ESIC dispensary in Jangpura new delhi is not working properly. The doctors not treated to patients they always chat with other staff for hours and hours. Sir please do something so that we can save our time please.",
+            "diarydate": "03-05-2019 12:37",
+            "closing_date": "06-06-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "N",
+            "comments": "NA",
+            "ratingdate": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00302  ",
+            "ministry_department": "Department of Health & Family Welfare",
+            "country_name": "India",
+            "state_name": "Delhi",
+            "distname": "South West Delhi",
+            "subject_content": "Sir   It is submitted that Bhagat Chandra Hospital Near Mahavir Enclave New Delhi-****** is giving facility of Pathological Tests in collaboration with Max Lab. Max Lab is providing CGHS rate for central government employees. However Bhagat Chandra Hospital is denying for some tests at CGHS rate stating that our software is different and showing CGHS rate. It is requested to look into the issue and do the needful.Thanking you sir. U S Bhagat AODelhiCont No. **********",
+            "diarydate": "06-05-2019 21:58",
+            "closing_date": "28-05-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "N",
+            "comments": "NA",
+            "ratingdate": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00302  ",
+            "ministry_department": "Ministry of Ayush",
+            "country_name": "India",
+            "state_name": "Delhi",
+            "distname": "South West Delhi",
+            "subject_content": "Sir   It is submitted that Bhagat Chandra Hospital Near Mahavir Enclave New Delhi-****** is giving facility of Pathological Tests in collaboration with Max Lab. Max Lab is providing CGHS rate for central government employees. However Bhagat Chandra Hospital is denying for some tests at CGHS rate stating that our software is different and showing CGHS rate. It is requested to look into the issue and do the needful.Thanking you sir. U S Bhagat AODelhiCont No. **********",
+            "diarydate": "06-05-2019 21:58",
+            "closing_date": "28-05-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "N",
+            "comments": "NA",
+            "ratingdate": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00304  ",
+            "ministry_department": "Department of Health & Family Welfare",
+            "country_name": "India",
+            "state_name": "Jharkhand",
+            "distname": "Ranchi",
+            "subject_content": "Dear SirI am writing on the behalf of Bindu Soni and her husband  Vijay Kumar.We are undergoing treatment in Tata Memorial Center hospital Parel Mumbai.Initial reports suggest it is a cancer but later it was not detected as Cancer.Doctor suggest Robotic VAT* thymoma excism but Ayushman Bharat mitra says it is not covered under Ayushman bharat scheme.It would be covered if there is a open heart surgery.I am writing to you because In my all sense It should be covered for under Ayushman bharat scheme as it is not cosmetic surgery it is meant for livelyhood of poor.Sir For the poor I wish you to intervene into this matter and suggest what to do next. I seek your help and enclosing all documents.Expected date of surgery is **th of this month.Patient Name: Bindu DeviHusband Name: Vijay KumarHospital Name: Tata Memorial Hospital Parel MumbaiHospital Case Number: CS\/*****Year Of Birth : ****Gender: FemaleAyusman Bharat Id:  BB*K*Z*TU",
+            "diarydate": "07-05-2019 14:30",
+            "closing_date": "27-05-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "N",
+            "comments": "NA",
+            "ratingdate": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00304  ",
+            "ministry_department": "Ministry of Ayush",
+            "country_name": "India",
+            "state_name": "Jharkhand",
+            "distname": "Ranchi",
+            "subject_content": "Dear SirI am writing on the behalf of Bindu Soni and her husband  Vijay Kumar.We are undergoing treatment in Tata Memorial Center hospital Parel Mumbai.Initial reports suggest it is a cancer but later it was not detected as Cancer.Doctor suggest Robotic VAT* thymoma excism but Ayushman Bharat mitra says it is not covered under Ayushman bharat scheme.It would be covered if there is a open heart surgery.I am writing to you because In my all sense It should be covered for under Ayushman bharat scheme as it is not cosmetic surgery it is meant for livelyhood of poor.Sir For the poor I wish you to intervene into this matter and suggest what to do next. I seek your help and enclosing all documents.Expected date of surgery is **th of this month.Patient Name: Bindu DeviHusband Name: Vijay KumarHospital Name: Tata Memorial Hospital Parel MumbaiHospital Case Number: CS\/*****Year Of Birth : ****Gender: FemaleAyusman Bharat Id:  BB*K*Z*TU",
+            "diarydate": "07-05-2019 14:30",
+            "closing_date": "27-05-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "N",
+            "comments": "NA",
+            "ratingdate": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00327  ",
+            "ministry_department": "Department of Health & Family Welfare",
+            "country_name": "India",
+            "state_name": "Rajasthan",
+            "distname": "Alwar",
+            "subject_content": "COMPLAINT AGAINS AIIMS STAFF AND FOR SOME  HELP FROM PRIME  MINISTER.KINDLY INVESTIGATE BELOW MENTIONED REFERENCE NO FOR FURTHER ENQUIRY",
+            "diarydate": "26-05-2019 13:53",
+            "closing_date": "24-06-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "N",
+            "comments": "NA",
+            "ratingdate": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00327  ",
+            "ministry_department": "Ministry of Ayush",
+            "country_name": "India",
+            "state_name": "Rajasthan",
+            "distname": "Alwar",
+            "subject_content": "COMPLAINT AGAINS AIIMS STAFF AND FOR SOME  HELP FROM PRIME  MINISTER.KINDLY INVESTIGATE BELOW MENTIONED REFERENCE NO FOR FURTHER ENQUIRY",
+            "diarydate": "26-05-2019 13:53",
+            "closing_date": "24-06-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "N",
+            "comments": "NA",
+            "ratingdate": "NA"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00333  ",
+            "ministry_department": "Department of Health & Family Welfare",
+            "country_name": "India",
+            "state_name": "Madhya Pradesh",
+            "distname": "Indore",
+            "subject_content": "Dear Sir               My self Ashish kumar Jain from uttar pradesh my younger brother wife Ekta Jain Last week not feeling well he goes along with her wife to Bareilley  for treatment In Clara swain mission hospital Civil lines Bareilley uttar pradesh his wife having card for ayushman at the time of admission hospital and there ayushman staff denied to take admission as per ayushman and they insist pl deposit ***** rupees or go anywhere with patient the condition is not good for patient her baby tube is bust and almost **  of blood is discharged any how they admitted with ***** rupees and with in * hour they operated patient next day around ** o clock they came us and told now i can cover under ayushman and latter on they didnot charge any rupees pl look in to the matter and take it seriously last week our prime minister told they will provide more facility for ayushamn but ground report is different for that your interruption required ThanksAshish kumar jain********************",
+            "diarydate": "28-05-2019 18:02",
+            "closing_date": "06-06-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "1",
+            "comments": "NA",
+            "ratingdate": "20-08-2019 08:50"
+        },
+        {
+            "registration_no": "AYUSH\/E\/2019\/00333  ",
+            "ministry_department": "Ministry of Ayush",
+            "country_name": "India",
+            "state_name": "Madhya Pradesh",
+            "distname": "Indore",
+            "subject_content": "Dear Sir               My self Ashish kumar Jain from uttar pradesh my younger brother wife Ekta Jain Last week not feeling well he goes along with her wife to Bareilley  for treatment In Clara swain mission hospital Civil lines Bareilley uttar pradesh his wife having card for ayushman at the time of admission hospital and there ayushman staff denied to take admission as per ayushman and they insist pl deposit ***** rupees or go anywhere with patient the condition is not good for patient her baby tube is bust and almost **  of blood is discharged any how they admitted with ***** rupees and with in * hour they operated patient next day around ** o clock they came us and told now i can cover under ayushman and latter on they didnot charge any rupees pl look in to the matter and take it seriously last week our prime minister told they will provide more facility for ayushamn but ground report is different for that your interruption required ThanksAshish kumar jain********************",
+            "diarydate": "28-05-2019 18:02",
+            "closing_date": "06-06-2019",
+            "SourceName": "Local\/Internet",
+            "rating": "1",
+            "comments": "NA",
+            "ratingdate": "20-08-2019 08:50"
+        }
+    ]
+}
